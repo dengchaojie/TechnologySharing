@@ -16,5 +16,5 @@ CML | JavaScript | 支持 | 美团
 Weex | JavaScript | 支持 | 阿里
 
 ### 推荐
-Web开发框架，首选Vue
-跨平台开发框架，首选Flutter，次选Vue
+- Web开发框架，首选Vue
+- 跨平台开发框架，首选Flutter，次选Vue
